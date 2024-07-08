@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 122,
+      "name": "mango",
+      "price": "2",
+      "image": "https://cdn.pixabay.com/photo/2023/09/29/07/58/mango-8283268_1280.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Banana",
+      "price": "5",
+      "image": "https://cdn.pixabay.com/photo/2024/04/25/06/50/banana-8719086_1280.jpg"
+    },
+    {
+      "id": 125,
+      "name": "peach",
+      "price": "10",
+      "image": "https://cdn.pixabay.com/photo/2015/03/30/12/42/peach-698592_640.jpg"
+    },
+    {
+      "id": 126,
+      "name": "apple",
+      "price": "3",
+      "image": "https://cdn.pixabay.com/photo/2022/11/20/14/34/apple-7624444_1280.jpg"
+    },
+    {
+      "id": 127,
+      "name": "orange",
+      "price": "4",
+      "image": "https://cdn.pixabay.com/photo/2022/07/24/11/14/orange-7334444_1280.jpg"
+    },
+    {
+      "id": 128,
+      "name": "grape",
+      "price": "6",
+      "image": "https://cdn.pixabay.com/photo/2022/09/15/12/34/grape-7454444_1280.jpg"
+    },
+    {
+      "id": 129,
+      "name": "strawberry",
+      "price": "7",
+      "image": "https://cdn.pixabay.com/photo/2022/05/20/14/34/strawberry-7214444_1280.jpg"
+    },
+    {
+      "id": 130,
+      "name": "pineapple",
+      "price": "8",
+      "image": "https://cdn.pixabay.com/photo/2022/03/20/14/34/pineapple-7084444_1280.jpg"
+    },
+    {
+      "id": 131,
+      "name": "watermelon",
+      "price": "9",
+      "image": "https://cdn.pixabay.com/photo/2022/01/20/14/34/watermelon-6924444_1280.jpg"
+    },
+    {
+      "id": 132,
+      "name": "kiwi",
+      "price": "11",
+      "image": "https://cdn.pixabay.com/photo/2022/12/20/14/34/kiwi-7774444_1280.jpg"
+    }
+  ]
+}
